@@ -1,32 +1,62 @@
 {
-    "productos": [
-        {
-            "id": 15,
-            "nombre": "Super producto 01",
-            "descripcion": "Aliquip nisi ullamco incididunt eu amet fugiat.",
-            "precio": 63.15,
-            "categoria": "repuestos"
-        },
-        {
-            "id": 55,
-            "nombre": "Super producto 02",
-            "descripcion": "Fugiat aute quis sunt reprehenderit fugiat veniam laborum ipsum cupidatat ea minim eiusmod ex reprehenderit.",
-            "precio": 24.5,
-            "categoria": "farmacia"
-        },
-        {
-            "id": 16,
-            "nombre": "Super producto 03",
-            "descripcion": "Do mollit sint duis consectetur ut dolor sint in velit do elit.",
-            "precio": 42.3,
-            "categoria": "comida"
-        },
-        {
-            "id": 24,
-            "nombre": "Super producto 04",
-            "descripcion": "Aliqua commodo voluptate in sint est veniam dolor exercitation consectetur.",
-            "precio": 33.15,
-            "categoria": "computo"
-        }
-    ]
+  "productos": [
+    {
+      "id": 15,
+      "nombre": "Super producto 01",
+      "descripcion": "Aliquip nisi ullamco incididunt eu amet fugiat.",
+      "precio": 63.15,
+      "categoria": "repuestos"
+    },
+    {
+      "id": 55,
+      "nombre": "Super producto 02",
+      "descripcion": "Fugiat aute quis sunt reprehenderit fugiat veniam laborum ipsum cupidatat ea minim eiusmod ex reprehenderit.",
+      "precio": 24.5,
+      "categoria": "farmacia"
+    },
+    {
+      "id": 16,
+      "nombre": "Super producto 03",
+      "descripcion": "Do mollit sint duis consectetur ut dolor sint in velit do elit.",
+      "precio": 42.3,
+      "categoria": "comida"
+    },
+    {
+      "id": 24,
+      "nombre": "Super producto 04",
+      "descripcion": "Aliqua commodo voluptate in sint est veniam dolor exercitation consectetur.",
+      "precio": 33.15,
+      "categoria": "computo"
+    },
+    {
+      "nombre": "sada qwewq ",
+      "precio": "4",
+      "categoria": "farmacia",
+      "id": 56
+    },
+    {
+      "nombre": "sada qwewq ",
+      "precio": "4",
+      "categoria": "farmacia",
+      "id": 57
+    },
+    {
+      "nombre": "Producto Ucto",
+      "precio": "333",
+      "categoria": "computo",
+      "id": 58
+    },
+    {
+      "nombre": "pro 01",
+      "precio": "3254",
+      "categoria": "farmacia",
+      "id": 60
+    },
+    {
+      "nombre": "Wild Prd",
+      "precio": "81",
+      "categoria": "repuestos",
+      "id": 61
+    }
+  ]
 }
