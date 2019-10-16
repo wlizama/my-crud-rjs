@@ -38,7 +38,11 @@ function App() {
 							<AgregarProducto guardarRecargarProductos={guardarRecargarProductos} />
 						)}
 					/>
-					<Route exact path="/productos/editar/:id" component={EditarProducto} />
+					<Route exact path="/productos/editar/:id"
+						render={ props => (
+							<EditarProducto id={props.match.params.id} />
+						)}
+					/>
 				</Switch>
 			</main>
 			<p className="mt-4 p2 text-center">&copy; Todos los derechos reservados</p>

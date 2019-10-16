@@ -32,30 +32,35 @@
       "nombre": "sada qwewq ",
       "precio": "4",
       "categoria": "farmacia",
+      "descripcion": "Proident eiusmod fugiat sit est.",
       "id": 56
     },
     {
       "nombre": "sada qwewq ",
       "precio": "4",
       "categoria": "farmacia",
+      "descripcion": "Dolore eu eiusmod sint laboris incididunt incididunt non consequat tempor occaecat dolore veniam ut.",
       "id": 57
     },
     {
       "nombre": "Producto Ucto",
       "precio": "333",
       "categoria": "computo",
+      "descripcion": "Sit non ea esse consectetur voluptate anim aliqua id esse nisi deserunt ipsum ad aute.",
       "id": 58
     },
     {
       "nombre": "pro 01",
       "precio": "3254",
       "categoria": "farmacia",
+      "descripcion": "Ad tempor sint minim enim consequat amet amet cillum nisi Lorem.",
       "id": 60
     },
     {
       "nombre": "Wild Prd",
       "precio": "81",
       "categoria": "repuestos",
+      "descripcion": "Qui amet consectetur exercitation magna pariatur magna veniam exercitation sit.",
       "id": 61
     }
   ]
