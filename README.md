@@ -1,4 +1,4 @@
-![captura01](./art/captura01.png)
+![captura01](./art/captura-01.png)
 
 # My CRUD ReactJS
 
